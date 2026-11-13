@@ -6,7 +6,7 @@
 
 The independent record of how far autonomous AI can be trusted.
 
-[truscor.org](https://truscor.org) · [SOVA OSS](https://github.com/TRUSCOR/SOVA-OSS)
+[truscor.org](https://truscor.org) · [SOVA OSS](https://github.com/TRUSCOR/SOVA-OSS) · [Research](https://github.com/TRUSCOR/sova-research)
 
 </div>
 
@@ -38,6 +38,16 @@ uv sync --locked
 uv run sova demo sleeper
 ```
 
+## Research
+
+**[sova-research](https://github.com/TRUSCOR/sova-research)** holds our released papers with their data,
+code, protocols and evidence as `.sova` files.
+
+The latest preprint, [*.sova: Portable, Evidence-Bounded Reproduction of AI-Agent Security Findings*](https://github.com/TRUSCOR/sova-research)
+(version 1.1, November 2026, not yet peer reviewed), re-ran a widely used AI-agent security benchmark
+on eight models and ships four findings you can verify offline:
+[try one](https://github.com/TRUSCOR/sova-research/tree/main/artifacts/pf-v1.1/findings).
+
 ## How we stay neutral
 
 - No product in any category we rate
@@ -48,3 +58,7 @@ uv run sova demo sleeper
 ## Contribute
 
 SOVA OSS is open to contributions: start with the issues at [TRUSCOR/SOVA-OSS](https://github.com/TRUSCOR/SOVA-OSS).
+
+---
+
+TRUSCOR was founded by [Gautam R. Patil](https://github.com/Gautam-R-Patil), who created SOVA and the `.sova` format.
