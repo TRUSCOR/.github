@@ -6,7 +6,7 @@
 
 The independent record of how far autonomous AI can be trusted.
 
-[truscor.org](https://truscor.org) · [SOVA OSS](https://github.com/TRUSCOR/SOVA-OSS) · [Research](https://github.com/TRUSCOR/sova-research)
+[truscor.org](https://truscor.org) · [SOVA OSS](https://github.com/TRUSCOR/SOVA-OSS) · [Research](https://github.com/TRUSCOR/research)
 
 </div>
 
@@ -40,13 +40,13 @@ uv run sova demo sleeper
 
 ## Research
 
-**[sova-research](https://github.com/TRUSCOR/sova-research)** holds our released papers with their data,
+**[TRUSCOR/research](https://github.com/TRUSCOR/research)** holds our released papers and R&D with their data,
 code, protocols and evidence as `.sova` files.
 
-The latest preprint, [*.sova: Portable, Evidence-Bounded Reproduction of AI-Agent Security Findings*](https://github.com/TRUSCOR/sova-research)
+The latest preprint, [*.sova: Portable, Evidence-Bounded Reproduction of AI-Agent Security Findings*](https://github.com/TRUSCOR/research)
 (version 1.1, November 2026, not yet peer reviewed), re-ran a widely used AI-agent security benchmark
 on eight models and ships four findings you can verify offline:
-[try one](https://github.com/TRUSCOR/sova-research/tree/main/artifacts/pf-v1.1/findings).
+[try one](https://github.com/TRUSCOR/research/tree/main/artifacts/pf-v1.1/findings).
 
 ## How we stay neutral
 
