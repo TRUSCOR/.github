@@ -43,9 +43,10 @@ uv run sova demo sleeper
 **[TRUSCOR/research](https://github.com/TRUSCOR/research)** holds our released papers and R&D with their data,
 code, protocols and evidence as `.sova` files.
 
-The latest preprint, [*.sova: Portable, Evidence-Bounded Reproduction of AI-Agent Security Findings*](https://github.com/TRUSCOR/research)
-(version 1.1, November 2026, not yet peer reviewed), re-ran a widely used AI-agent security benchmark
-on eight models and ships four findings you can verify offline:
+The latest preprint, [*Did the Attack Really Work? Auditing, Re-running, and Sealing AI-Agent Security Findings with .sova*](https://github.com/TRUSCOR/research/tree/main/preprints)
+(version 1.1, November 2026, not yet peer reviewed), checks a widely used AI-agent security benchmark's verdicts
+against what the agents actually did, re-runs its attacks on 24 current models from eight developers, and releases
+every run as a `.sova` file you can verify offline:
 [try one](https://github.com/TRUSCOR/research/tree/main/artifacts/pf-v1.1/findings).
 
 ## How we stay neutral
@@ -57,7 +58,7 @@ on eight models and ships four findings you can verify offline:
 
 ## Contribute
 
-SOVA OSS is open to contributions: start with the issues at [TRUSCOR/SOVA-OSS](https://github.com/TRUSCOR/SOVA-OSS).
+SOVA OSS is open to contributions: open an issue or send a pull request at [TRUSCOR/SOVA-OSS](https://github.com/TRUSCOR/SOVA-OSS).
 
 ---
 
