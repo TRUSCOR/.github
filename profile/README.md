@@ -43,8 +43,8 @@ uv run sova demo sleeper
 **[TRUSCOR/research](https://github.com/TRUSCOR/research)** holds our released papers and R&D with their data,
 code, protocols and evidence as `.sova` files.
 
-The latest preprint, [*Did the Attack Really Work? Auditing, Re-running, and Sealing AI-Agent Security Findings with .sova*](https://doi.org/10.5281/zenodo.24290458)
-(version 1.1, November 2026, not yet peer reviewed, DOI [10.5281/zenodo.24290458](https://doi.org/10.5281/zenodo.24290458)), checks a widely used AI-agent security benchmark's verdicts
+The latest preprint, [*Did the Attack Really Work? Auditing, Re-running, and Sealing AI-Agent Security Findings with .sova*](https://doi.org/10.5281/zenodo.24290457)
+(version 1.2, November 2026, not yet peer reviewed, DOI [10.5281/zenodo.24321025](https://doi.org/10.5281/zenodo.24321025)), checks a widely used AI-agent security benchmark's verdicts
 against what the agents actually did, re-runs its attacks on 24 current models from eight developers, and releases
 every run as a `.sova` file you can verify offline:
 [try one](https://github.com/TRUSCOR/research/tree/main/artifacts/pf-v1.1/findings).
